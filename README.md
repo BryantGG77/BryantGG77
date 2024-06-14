@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, PosgreSQL, Oracle Next Education.**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, React.**
+- 💬 Ask me about **Front-end development.**
 
 - 📫 How to reach me **brayespro@gmail.com**
 
