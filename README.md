@@ -2,7 +2,7 @@
 
 ![Fondo programacion](https://github.com/BryantGG77/BryantGG77/assets/165966860/0957fe9a-7df6-4a82-a572-6d909631266f)
 
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
+<h3 align="center">A passionate Front-End developer from Colombia</h3>
 
 - 🌱 I’m currently learning **React, PosgreSQL, Oracle Next Education.**
 
