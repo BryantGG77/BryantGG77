@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Front-End developer from Colombia</h3>
 
-- 🌱 I’m currently learning **React, PosgreSQL, Oracle Next Education.**
+- 🌱 I’m currently learning **JavaScript, Courses AluraLatam, Oracle Next Education.**
 
 - 💬 Ask me about **Front-end development.**
 
