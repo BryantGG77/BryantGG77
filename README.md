@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BryantGG77</h1>
 
-![Fondo programacion](https://github.com/BryantGG77/BryantGG77/assets/165966860/0957fe9a-7df6-4a82-a572-6d909631266f)
+![Fondo programacion 2](https://github.com/user-attachments/assets/1861fb72-2827-4858-84a8-f0bf27bd1027)
 
 <h3 align="center">A passionate Front-End developer from Colombia</h3>
 
