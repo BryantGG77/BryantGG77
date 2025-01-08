@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm BryantGG77</h1>
 
-![Fondo programacion 2](https://github.com/user-attachments/assets/1861fb72-2827-4858-84a8-f0bf27bd1027)
+![Banner Brayan Velasquez con foto](https://github.com/user-attachments/assets/069f8db5-6ff7-41c7-8f51-f8afd61a6040)
+
 
 <h3 align="center">A passionate Front-End developer from Colombia</h3>
 
