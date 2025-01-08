@@ -1,3 +1,6 @@
+
+![Banner de Brayan Velasquez - Software Engineer LinkedIn Banner 1](https://github.com/user-attachments/assets/d708cc43-89ce-4119-bb72-6c33efe7b408)
+
 # 💫 About Me:
 Soy desarrollador Front End, con sólidos conocimientos en HTML, CSS, JavaScript y React de manera empírica. Por otra parte estoy cursando el programa Oracle Next Education, promovido por Oracle y Alura Latam, con fines de perfeccionar mis habilidades técnicas y propulsar así mis proyectos.<br><br>Estoy en búsqueda de oportunidades en el campo del desarrollo, tengo disponibilidad de trabajo en este momento y listo para enfrentar nuevos retos en el mundo del desarrollo web.
 
