@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm BryantGG77</h1>
 
 ![Banner Brayan Velasquez](https://github.com/user-attachments/assets/8963eb14-968d-4195-af75-a0009639388a)
+![Banner de Brayan Velasquez - Software Engineer LinkedIn Banner 1](https://github.com/user-attachments/assets/d9bd5204-a5ba-45e9-81b1-e72a2fdcbe3b)
+
 
 <h3 align="center">A passionate Front-End developer from Colombia</h3>
 
